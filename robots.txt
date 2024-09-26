@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nctoidoc.github.io/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/app/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/assets/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/css/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/data/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/includes/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/item/sitemap.nctoidoc.gz
+Sitemap: https://nctoidoc.github.io/src/sitemap.nctoidoc.gz
